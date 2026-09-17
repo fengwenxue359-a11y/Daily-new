@@ -1,10 +1,11 @@
 import feedparser
-from deep_translator import GoogleTranslator
+from deep_translator import GoogleTranslator, MyMemoryTranslator
 import json
 import os
 import datetime
+import time
 
-# ================= 你的资讯源（可以自己在这里添加） =================
+# ================= 你的资讯源 =================
 RSS_FEEDS = [
     {"name": "Huberman Lab (YouTube)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2D2CMWXMOVWx7giW1n3LIg"},
     {"name": "华尔街日报 - 科技", "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml"},
@@ -15,11 +16,19 @@ RSS_FEEDS = [
 
 def translate_text(text):
     if not text: return ""
+    # 优先使用 Google 翻译
     try:
-        return GoogleTranslator(source='en', target='zh-CN').translate(text[:1500])
+        time.sleep(1) # 延时1秒，避免请求过快被封
+        return GoogleTranslator(source='en', target='zh-CN').translate(text[:1000])
     except Exception as e:
-        print(f"翻译失败: {e}")
-        return text
+        print(f"Google翻译失败，尝试备用引擎: {e}")
+        # 如果 Google 失败，尝试备用引擎 MyMemory
+        try:
+            time.sleep(1)
+            return MyMemoryTranslator(source='en', target='zh-CN').translate(text[:1000])
+        except Exception as e2:
+            print(f"备用翻译也失败: {e2}")
+            return text # 全部失败，返回英文
 
 def generate_daily_brief():
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
