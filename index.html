@@ -2,49 +2,129 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>我的每日早报</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>每日智囊</title>
     <link rel="manifest" href="manifest.json">
     <style>
-        body { font-family: sans-serif; margin: 0; padding: 15px; background: #f4f6f8; color: #333; }
-        h2 { text-align: center; }
-        iframe { width: 100%; height: 80vh; border: none; background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        :root { --primary: #4CAF50; --bg: #f4f6f8; --card: #ffffff; --text: #333; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); margin: 0; padding: 0; color: var(--text); padding-bottom: 80px; }
+        
+        /* 顶部导航 */
+        header { background: var(--card); padding: 15px; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 4px rgba(0,0,0,0.05); display: flex; justify-content: space-between; align-items: center; }
+        header h1 { font-size: 18px; margin: 0; }
+        select { padding: 5px 10px; border-radius: 5px; border: 1px solid #ddd; font-size: 14px; background: #fff; }
+
+        /* 卡片样式 */
+        .container { padding: 15px; }
+        .card { background: var(--card); border-radius: 12px; padding: 20px; margin-bottom: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        .source { font-size: 12px; color: var(--primary); font-weight: bold; margin-bottom: 5px; display: inline-block; background: #e8f5e9; padding: 2px 8px; border-radius: 4px; }
+        .title-en { font-size: 15px; font-weight: bold; margin: 10px 0 5px 0; color: #555; }
+        .title-cn { font-size: 16px; font-weight: bold; color: #1a1a1a; margin-bottom: 10px; }
+        .desc-en { font-size: 13px; color: #888; margin-bottom: 10px; line-height: 1.4; }
+        .desc-cn { font-size: 14px; color: #333; margin-bottom: 15px; line-height: 1.5; }
+        .btn-link { display: inline-block; font-size: 13px; color: var(--primary); text-decoration: none; font-weight: bold; }
+
+        /* 笔记区域 */
+        .note-section { background: var(--card); border-radius: 12px; padding: 20px; margin-top: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        .note-section h2 { font-size: 16px; margin-top: 0; }
+        textarea { width: 100%; height: 120px; padding: 10px; border: 1px solid #ddd; border-radius: 8px; font-size: 14px; resize: none; box-sizing: border-box; }
+        button { background: var(--primary); color: white; border: none; padding: 10px 20px; border-radius: 8px; font-size: 14px; margin-top: 10px; cursor: pointer; width: 100%; }
+        button:active { opacity: 0.8; }
+        .loading { text-align: center; color: #888; padding: 40px 0; }
     </style>
 </head>
 <body>
-    <h2>📰 每日早报</h2>
-    <div id="loading" style="text-align:center; color:#888;">正在加载今日简报...</div>
-    <iframe id="briefFrame" style="display:none;"></iframe>
+
+    <header>
+        <h1>📰 每日智囊</h1>
+        <select id="historySelect">
+            <option value="latest">今日</option>
+        </select>
+    </header>
+
+    <div class="container" id="content">
+        <div class="loading">正在加载资讯...</div>
+    </div>
+
+    <div class="container">
+        <div class="note-section">
+            <h2>📝 我的学习笔记</h2>
+            <textarea id="noteInput" placeholder="在这里输入你的笔记，退出浏览器后会自动保存..."></textarea>
+            <button onclick="saveNote()">保存笔记到本地</button>
+            <p id="saveStatus" style="color: var(--primary); font-size: 12px; text-align: center; display: none;">✔ 笔记已保存</p>
+        </div>
+    </div>
 
     <script>
-        // 注册 PWA
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('./sw.js');
+            navigator.serviceWorker.register('./sw.js').catch(console.error);
         }
 
-        // 从 GitHub API 获取 briefs 文件夹下的文件列表
-        fetch(`https://api.github.com/repos/fengwenxue359-a11y/Daily-new/contents/briefs`)
-            .then(res => res.json())
-            .then(files => {
-                // 过滤出 html 文件
-                const htmlFiles = files.filter(f => f.name.endsWith('.html'));
-                if (htmlFiles.length === 0) throw new Error("未找到简报文件");
+        async function loadData(dateParam = 'latest') {
+            const contentDiv = document.getElementById('content');
+            contentDiv.innerHTML = '<div class="loading">正在加载资讯...</div>';
+            const url = dateParam === 'latest' ? './briefs/latest.json' : `./briefs/archive/${dateParam}.json`;
+
+            try {
+                const response = await fetch(`${url}?t=${new Date().getTime()}`);
+                if (!response.ok) throw new Error("数据不存在");
+                const data = await response.json();
                 
-                // 按文件名排序，找出最新的那个（日期最大的）
-                htmlFiles.sort((a, b) => b.name.localeCompare(a.name));
-                const latestFile = htmlFiles[0];
-                
-                // 将最新的 HTML 文件塞入 iframe 中展示
-                const frame = document.getElementById('briefFrame');
-                frame.src = latestFile.download_url;
-                frame.onload = () => {
-                    document.getElementById('loading').style.display = 'none';
-                    frame.style.display = 'block';
-                };
-            })
-            .catch(err => {
-                document.getElementById('loading').innerHTML = `<p style="color:red;">加载失败: ${err.message}</p>`;
-            });
+                let html = '';
+                data.items.forEach(item => {
+                    html += `
+                        <div class="card">
+                            <span class="source">${item.source}</span>
+                            <div class="title-en">${item.title_en}</div>
+                            <div class="title-cn">${item.title_cn}</div>
+                            <div class="desc-en">${item.desc_en}</div>
+                            <div class="desc-cn">${item.desc_cn}</div>
+                            <a class="btn-link" href="${item.link}" target="_blank">阅读原文 →</a>
+                        </div>
+                    `;
+                });
+                contentDiv.innerHTML = html;
+                loadNote(dateParam);
+            } catch (error) {
+                contentDiv.innerHTML = `<div class="loading" style="color:red;">⚠️ 数据加载失败：${error.message}</div>`;
+            }
+        }
+
+        async function loadHistoryList() {
+            try {
+                const response = await fetch(`./briefs/history.json?t=${new Date().getTime()}`);
+                const history = await response.json();
+                const select = document.getElementById('historySelect');
+                history.forEach(date => {
+                    const option = document.createElement('option');
+                    option.value = date;
+                    option.text = date;
+                    select.appendChild(option);
+                });
+            } catch (e) { console.log("暂无历史记录"); }
+        }
+
+        let currentDate = 'latest';
+        function loadNote(date) {
+            currentDate = date;
+            const savedNote = localStorage.getItem(`note_${date}`);
+            document.getElementById('noteInput').value = savedNote || '';
+        }
+
+        function saveNote() {
+            const note = document.getElementById('noteInput').value;
+            localStorage.setItem(`note_${currentDate}`, note);
+            const status = document.getElementById('saveStatus');
+            status.style.display = 'block';
+            setTimeout(() => { status.style.display = 'none'; }, 2000);
+        }
+
+        document.getElementById('historySelect').addEventListener('change', (e) => {
+            loadData(e.target.value);
+        });
+
+        loadHistoryList();
+        loadData('latest');
     </script>
 </body>
 </html>
