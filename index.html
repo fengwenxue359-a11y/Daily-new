@@ -42,33 +42,73 @@
     </div>
     <script>
         if ('serviceWorker' in navigator) { navigator.serviceWorker.register('./sw.js').catch(console.error); }
+        
         async function loadData(dateParam = 'latest') {
             const contentDiv = document.getElementById('content');
             contentDiv.innerHTML = '<div class="loading">正在加载资讯...</div>';
             const url = dateParam === 'latest' ? './briefs/latest.json' : `./briefs/archive/${dateParam}.json`;
+            
             try {
                 const response = await fetch(`${url}?t=${new Date().getTime()}`);
                 if (!response.ok) throw new Error("数据不存在");
                 const data = await response.json();
+                
                 let html = '';
                 data.items.forEach(item => {
-                    html += `<div class="card"><span class="source">${item.source}</span><div class="title-en">${item.title_en}</div><div class="title-cn">${item.title_cn}</div><div class="desc-en">${item.desc_en}</div><div class="desc-cn">${item.desc_cn}</div><a class="btn-link" href="${item.link}" target="_blank">阅读原文 →</a></div>`;
+                    // 如果翻译和原文一样，就不显示翻译
+                    let titleHtml = `<div class="title-en">${item.title_en}</div>`;
+                    if (item.title_cn && item.title_cn !== item.title_en) {
+                        titleHtml += `<div class="title-cn">${item.title_cn}</div>`;
+                    }
+                    
+                    let descHtml = `<div class="desc-en">${item.desc_en}</div>`;
+                    if (item.desc_cn && item.desc_cn !== item.desc_en) {
+                        descHtml += `<div class="desc-cn">${item.desc_cn}</div>`;
+                    }
+
+                    html += `
+                        <div class="card">
+                            <span class="source">${item.source}</span>
+                            ${titleHtml}
+                            ${descHtml}
+                            <a class="btn-link" href="${item.link}" target="_blank">阅读原文 →</a>
+                        </div>
+                    `;
                 });
                 contentDiv.innerHTML = html;
                 loadNote(dateParam);
-            } catch (error) { contentDiv.innerHTML = `<div class="loading" style="color:red;">⚠️ 加载失败：${error.message}</div>`; }
+            } catch (error) { 
+                contentDiv.innerHTML = `<div class="loading" style="color:red;">⚠️ 加载失败：${error.message}</div>`; 
+            }
         }
+
         async function loadHistoryList() {
             try {
                 const response = await fetch(`./briefs/history.json?t=${new Date().getTime()}`);
                 const history = await response.json();
                 const select = document.getElementById('historySelect');
-                history.forEach(date => { const option = document.createElement('option'); option.value = date; option.text = date; select.appendChild(option); });
+                history.forEach(date => { 
+                    const option = document.createElement('option'); 
+                    option.value = date; 
+                    option.text = date; 
+                    select.appendChild(option); 
+                });
             } catch (e) { console.log("暂无历史记录"); }
         }
+
         let currentDate = 'latest';
-        function loadNote(date) { currentDate = date; document.getElementById('noteInput').value = localStorage.getItem(`note_${date}`) || ''; }
-        function saveNote() { localStorage.setItem(`note_${currentDate}`, document.getElementById('noteInput').value); const status = document.getElementById('saveStatus'); status.style.display = 'block'; setTimeout(() => { status.style.display = 'none'; }, 2000); }
+        function loadNote(date) { 
+            currentDate = date; 
+            document.getElementById('noteInput').value = localStorage.getItem(`note_${date}`) || ''; 
+        }
+        
+        function saveNote() { 
+            localStorage.setItem(`note_${currentDate}`, document.getElementById('noteInput').value); 
+            const status = document.getElementById('saveStatus'); 
+            status.style.display = 'block'; 
+            setTimeout(() => { status.style.display = 'none'; }, 2000); 
+        }
+
         document.getElementById('historySelect').addEventListener('change', (e) => { loadData(e.target.value); });
         loadHistoryList();
         loadData('latest');
