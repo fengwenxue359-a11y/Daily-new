@@ -1,0 +1,35 @@
+name: Daily Learning Brief
+
+# 每天 UTC 00:00 运行 = 北京时间早上 8:00
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}   # 支持手动触发测试
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate brief
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+        run: python generate_brief.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "growdaily-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          git commit -m "daily brief $(TZ=Asia/Shanghai date +%F)" || echo "no changes"
+          git push
