@@ -2,31 +2,26 @@ name: 生成每日双语简报
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天 UTC 0点，即北京时间早上 8:00
-  workflow_dispatch: # 允许你在网页上手动点击按钮触发
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 允许机器人把生成的数据提交回仓库
-
+      contents: write
     steps:
     - name: 检查仓库代码
       uses: actions/checkout@v3
-
     - name: 设置 Python 环境
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
-
     - name: 安装依赖库
       run: |
         pip install feedparser deep-translator
-
     - name: 运行抓取和翻译脚本
       run: python generate_brief.py
-
     - name: 将生成的简报提交回仓库
       run: |
         git config --local user.email "bot@github.com"
