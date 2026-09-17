@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的每日早报</title>
+    <link rel="manifest" href="manifest.json">
+    <style>
+        body { font-family: sans-serif; margin: 0; padding: 15px; background: #f4f6f8; color: #333; }
+        h2 { text-align: center; }
+        iframe { width: 100%; height: 80vh; border: none; background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+    </style>
+</head>
+<body>
+    <h2>📰 每日早报</h2>
+    <div id="loading" style="text-align:center; color:#888;">正在加载今日简报...</div>
+    <iframe id="briefFrame" style="display:none;"></iframe>
+
+    <script>
+        // 注册 PWA
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('./sw.js');
+        }
+
+        // 从 GitHub API 获取 briefs 文件夹下的文件列表
+        fetch(`https://api.github.com/repos/fengwenxue359-a11y/Daily-new/contents/briefs`)
+            .then(res => res.json())
+            .then(files => {
+                // 过滤出 html 文件
+                const htmlFiles = files.filter(f => f.name.endsWith('.html'));
+                if (htmlFiles.length === 0) throw new Error("未找到简报文件");
+                
+                // 按文件名排序，找出最新的那个（日期最大的）
+                htmlFiles.sort((a, b) => b.name.localeCompare(a.name));
+                const latestFile = htmlFiles[0];
+                
+                // 将最新的 HTML 文件塞入 iframe 中展示
+                const frame = document.getElementById('briefFrame');
+                frame.src = latestFile.download_url;
+                frame.onload = () => {
+                    document.getElementById('loading').style.display = 'none';
+                    frame.style.display = 'block';
+                };
+            })
+            .catch(err => {
+                document.getElementById('loading').innerHTML = `<p style="color:red;">加载失败: ${err.message}</p>`;
+            });
+    </script>
+</body>
+</html>
