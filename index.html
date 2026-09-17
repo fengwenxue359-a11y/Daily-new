@@ -1,0 +1,108 @@
+.card {
+background: var(--card); border: 1px solid var(--line);
+border-radius: var(--radius); padding: 20px 22px; margin-bottom: 14px;
+}
+.card h3 { font-size: 15.5px; margin-bottom: 6px; }
+.tag {
+display: inline-block; font-size: 11.5px; padding: 2px 10px;
+border-radius: 20px; margin-right: 6px; margin-bottom: 8px;
+}
+.tag.growth { background: var(--green-soft); color: var(--green); }
+.tag.money { background: var(--amber-soft); color: var(--amber); }
+.tag.tech { background: var(--accent-soft); color: var(--accent); }
+.muted { color: var(--muted); font-size: 13.5px; }
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.card ul { padding-left: 18px; margin: 8px 0; font-size: 14px; }
+.card li { margin-bottom: 4px; }
+.action-box {
+background: var(--green-soft); border-radius: 10px;
+padding: 10px 14px; font-size: 13.5px; margin-top: 10px;
+}
+.action-box b { color: var(--green); }
+
+.filters { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
+.filters button {
+border: 1px solid var(--line); background: var(--card); color: var(--muted);
+padding: 6px 16px; border-radius: 20px; font-size: 13px; cursor: pointer;
+font-family: inherit;
+}
+.filters button.active { background: var(--ink); color: #fff; border-color: var(--ink); }
+
+textarea {
+width: 100%; min-height: 120px; border: 1px solid var(--line);
+border-radius: 10px; padding: 12px 14px; font-size: 14px;
+font-family: inherit; resize: vertical; background: #fbfcfe;
+}
+textarea:focus { outline: 2px solid var(--accent-soft); border-color: var(--accent); }
+.btn {
+background: var(--accent); color: #fff; border: none;
+padding: 9px 22px; border-radius: 10px; font-size: 14px;
+cursor: pointer; margin-top: 10px; font-family: inherit;
+}
+.btn:hover { opacity: .9; }
+.note-item {
+background: var(--card); border: 1px solid var(--line);
+border-radius: 10px; padding: 12px 16px; margin-top: 10px;
+font-size: 14px; display: flex; justify-content: space-between; gap: 12px;
+}
+.note-item .del { color: #e05252; cursor: pointer; font-size: 12.5px; white-space: nowrap; }
+.empty { color: var(--muted); font-size: 13.5px; text-align: center; padding: 30px 0; }
+
+.hero {
+background: linear-gradient(135deg, #eaf1ff, #f3efff);
+border: 1px solid var(--line); border-radius: var(--radius);
+padding: 24px 26px; margin-bottom: 22px;
+}
+.hero h2 { font-size: 20px; margin-bottom: 8px; }
+.steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin-top: 14px; }
+.step {
+background: #fff; border-radius: 10px; padding: 14px 16px;
+border: 1px solid var(--line); font-size: 13.5px;
+}
+.step b { display: block; color: var(--accent); font-size: 12px; margin-bottom: 4px; }
+.cta {
+display: inline-block; margin-top: 16px; background: var(--accent); color: #fff;
+padding: 10px 26px; border-radius: 10px; text-decoration: none;
+font-size: 14px; font-weight: 600;
+}
+.cta:hover { opacity: .9; text-decoration: none; }
+footer { text-align: center; color: var(--muted); font-size: 12.5px; padding: 20px; }
+
+<h2 class="section-title">📅 今日简报 · <span class="muted" id="today-date"></span></h2>
+
+<div class="card">
+  <span class="tag growth">个人成长</span><span class="tag tech">Huberman Lab</span>
+  <h3>Arthur Brooks：幸福的三种「宏量营养素」</h3>
+  <ul>
+    <li>幸福 = 享受（enjoyment）+ 满足感（satisfaction）+ 意义感（meaning），三者缺一会失衡</li>
+    <li>短暂的快感 ≠ 深层的享受：快感会递减，享受需要人际连接</li>
+    <li>警惕「世俗偶像」——金钱、名声、外貌永远无法被真正满足</li>
+  </ul>
+  <div class="action-box"><b>行动启发：</b>给最近一周的幸福做体检，看三项里最缺哪一个，本周为它安排一件具体小事。</div>
+  <p class="muted" style="margin-top:8px">🔗 <a href=" " target="_blank">hubermanlab.com</a ></p >
+</div>
+
+<div class="card">
+  <span class="tag money">赚钱商业</span><span class="tag tech">My First Million</span>
+  <h3>「个人垄断」：把热爱变成收入的底层逻辑</h3>
+  <ul>
+    <li>成功不是在人多的市场做到最好，而是成为唯一做这件事的人</li>
+    <li>把线下服务当作内容引擎，从卖商品升级为卖身份认同</li>
+    <li>长期财富的关键：从「赚钱（earning）」转向「拥有（owning）」</li>
+  </ul>
+  <div class="action-box"><b>行动启发：</b>列出 3 件你更懂且真心喜欢的小众事物，选 1 件本周发布第一条内容测试反馈。</div>
+  <p class="muted" style="margin-top:8px">🔗 <a href="https://www.mfmpod.com" target="_blank">mfmpod.com</a ></p >
+</div>
+
+<div class="card">
+  <span class="tag growth">个人成长</span><span class="tag tech">The Tim Ferriss Show</span>
+  <h3>把失败变成赢的思维方式（#881）</h3>
+  <ul>
+    <li>Terry Crews：赢也好输也好，都要由我自己说了算</li>
+    <li>Tim McGraw：不让别人掌舵你的事业，第二张专辑按自己的方式录制</li>
+    <li>Janna Levin：人生不是被障碍打断的坦途——人生本身就是障碍</li>
+  </ul>
+  <div class="action-box"><b>行动启发：</b>写下最近一次「搞砸」的经历，用一句话重述为「这次失败教会我＿＿」。</div>
+  <p class="muted" style="margin-top:8px">🔗 <a href="https://tim.blog/podcast/" target="_blank">tim.blog/podcast</a ></p >
+</div>
