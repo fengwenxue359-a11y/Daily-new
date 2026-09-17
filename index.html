@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的每日早报</title>
+    <link rel="manifest" href="manifest.json">
+    <style>body { font-family: sans-serif; padding: 15px; background: #f4f6f8; color: #333; }</style>
+</head>
+<body>
+    <h2>📰 每日早报</h2>
+    <div id="content">正在加载今日简报...</div>
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('./sw.js');
+        }
+        fetch(`./briefs/latest.json?t=${new Date().getTime()}`)
+            .then(res => res.json())
+            .then(data => {
+                document.getElementById('content').innerHTML = 
+                    `<p><strong>${data.date}</strong></p><p>${data.content}</p>`;
+            })
+            .catch(() => {
+                document.getElementById('content').innerHTML = 
+                    `<p style="color:red;">未找到简报，请检查 briefs/latest.json 文件</p>`;
+            });
+    </script>
+</body>
+</html>
