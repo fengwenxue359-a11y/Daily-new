@@ -1,6 +1,38 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "items": [
+    {
+      "source": "Huberman Lab (YouTube)",
+      "title_en": "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall",
+      "title_cn": "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall",
+      "desc_en": "In this Huberman Lab Essentials episode, my guest is Dr. Matthew MacDougall, a neurosurgeon at Neuralink. We discuss how brain-machine interfaces could help people with paralysis control computers using their intended movements, and how robotic surgery enables the placement of tiny electrodes in the brain. We also explore advances in brain tumor surgery, implant safety, how the brain and software learn to work together, and the role of animal research. Dr. MacDougall shares his vision for future applications, including restoring movement, addressing mental health conditions and expanding human",
+      "desc_cn": "In this Huberman Lab Essentials episode, my guest is Dr. Matthew MacDougall, a neurosurgeon at Neuralink. We discuss how brain-machine interfaces could help people with paralysis control computers using their intended movements, and how robotic surgery enables the placement of tiny electrodes in the brain. We also explore advances in brain tumor surgery, implant safety, how the brain and software learn to work together, and the role of animal research. Dr. MacDougall shares his vision for future applications, including restoring movement, addressing mental health conditions and expanding human",
+      "link": "https://www.youtube.com/watch?v=YdIJW8RTptU"
+    },
+    {
+      "source": "Huberman Lab (YouTube)",
+      "title_en": "How to Rewire Your Brain to Crave Healthy Foods",
+      "title_cn": "How to Rewire Your Brain to Crave Healthy Foods",
+      "desc_en": "Dr. Scott Kanoski, PhD, is a Professor of Human and Evolutionary Biology and Neurobiology at the University of Southern California. \n\nWe discuss how different foods impact memory and cognitive function as well as cravings. \n\nWe also discuss how GLP-1 drugs work to control hunger in the brain and body, the role of the gut microbiome, and the effects of artificial and low calorie sweeteners on hunger and satiety. \n\nThis episode highlights how nutrition impacts much brain health and learning capacity and how our memory impacts food choices too.   \n\n*Follow Huberman Lab*\nInstagram: https://www.ins",
+      "desc_cn": "Dr. Scott Kanoski, PhD, is a Professor of Human and Evolutionary Biology and Neurobiology at the University of Southern California. \n\nWe discuss how different foods impact memory and cognitive function as well as cravings. \n\nWe also discuss how GLP-1 drugs work to control hunger in the brain and body, the role of the gut microbiome, and the effects of artificial and low calorie sweeteners on hunger and satiety. \n\nThis episode highlights how nutrition impacts much brain health and learning capacity and how our memory impacts food choices too.   \n\n*Follow Huberman Lab*\nInstagram: https://www.ins",
+      "link": "https://www.youtube.com/shorts/xZAsG5MShnk"
+    },
+    {
+      "source": "Huberman Lab (YouTube)",
+      "title_en": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
+      "title_cn": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
+      "desc_en": "Dr. Scott Kanoski, PhD, is a Professor of Human and Evolutionary Biology and Neurobiology at the University of Southern California. We discuss how different foods impact memory and cognitive function as well as cravings. We also discuss how GLP-1 drugs work to control hunger in the brain and body, the role of the gut microbiome, and the effects of artificial and low calorie sweeteners on hunger and satiety. This episode highlights how nutrition impacts much brain health and learning capacity and how our memory impacts food choices too.   \n\nShow notes: https://go.hubermanlab.com/jVES9ZV\n\nThank ",
+      "desc_cn": "Dr. Scott Kanoski, PhD, is a Professor of Human and Evolutionary Biology and Neurobiology at the University of Southern California. We discuss how different foods impact memory and cognitive function as well as cravings. We also discuss how GLP-1 drugs work to control hunger in the brain and body, the role of the gut microbiome, and the effects of artificial and low calorie sweeteners on hunger and satiety. This episode highlights how nutrition impacts much brain health and learning capacity and how our memory impacts food choices too.   \n\nShow notes: https://go.hubermanlab.com/jVES9ZV\n\nThank ",
+      "link": "https://www.youtube.com/watch?v=PXHRYbr3mp4"
+    },
+    {
+      "source": "Huberman Lab (YouTube)",
+      "title_en": "THANK YOU! To all of you who are reading or listening to PROTOCOLS",
+      "title_cn": "THANK YOU! To all of you who are reading or listening to PROTOCOLS",
+      "desc_en": "https://www.hubermanlab.com/protocols-book\n\nThe response to the book has been overwhelming (in the positive sense of the word) and I’m delighted for that but the most gratifying thing for me is when I hear that people are learning about their physiology, and trying the protocols and realizing results that are helping them with sleep, mitigating, stress, learning and motivation, focus, using light to improve mitochondrial health across the brain and body, and on and on.\n\nI’m also very grateful to @DrAndyGalpin, Alan Aragon, Samer Hattar Nick Norwitz who helped me shape the structure and content",
+      "desc_cn": "https://www.hubermanlab.com/protocols-book\n\nThe response to the book has been overwhelming (in the positive sense of the word) and I’m delighted for that but the most gratifying thing for me is when I hear that people are learning about their physiology, and trying the protocols and realizing results that are helping them with sleep, mitigating, stress, learning and motivation, focus, using light to improve mitochondrial health across the brain and body, and on and on.\n\nI’m also very grateful to @DrAndyGalpin, Alan Aragon, Samer Hattar Nick Norwitz who helped me shape the structure and content",
+      "link": "https://www.youtube.com/shorts/WnuKwoF8Viw"
+    },
     {
       "source": "华尔街日报 - 科技",
       "title_en": "What to Know About China's DeepSeek AI",
@@ -35,19 +67,11 @@
     },
     {
       "source": "经济学人 - 国际",
-      "title_en": "Business",
-      "title_cn": "Business",
-      "desc_en": "",
-      "desc_cn": "",
-      "link": "https://www.economist.com/the-world-this-week/2026/10/08/business"
-    },
-    {
-      "source": "经济学人 - 国际",
-      "title_en": "Cartoon: America’s gargantuan debt",
-      "title_cn": "Cartoon: America’s gargantuan debt",
+      "title_en": "Cartoon: AI tsunami",
+      "title_cn": "Cartoon: AI tsunami",
       "desc_en": "A lighter take on the news",
       "desc_cn": "A lighter take on the news",
-      "link": "https://www.economist.com/the-world-this-week/2026/10/08/cartoon-americas-gargantuan-debt"
+      "link": "https://www.economist.com/the-world-this-week/2026/10/15/cartoon-ai-tsunami"
     },
     {
       "source": "经济学人 - 国际",
@@ -55,79 +79,87 @@
       "title_cn": "Politics",
       "desc_en": "",
       "desc_cn": "",
-      "link": "https://www.economist.com/the-world-this-week/2026/10/08/politics"
+      "link": "https://www.economist.com/the-world-this-week/2026/10/15/politics"
     },
     {
       "source": "经济学人 - 国际",
-      "title_en": "Cartoon: Democracy v autocracy",
-      "title_cn": "Cartoon: Democracy v autocracy",
-      "desc_en": "A lighter take on the news",
-      "desc_cn": "A lighter take on the news",
-      "link": "https://www.economist.com/the-world-this-week/2026/10/01/cartoon-democracy-v-autocracy"
+      "title_en": "Business",
+      "title_cn": "Business",
+      "desc_en": "",
+      "desc_cn": "",
+      "link": "https://www.economist.com/the-world-this-week/2026/10/15/business"
+    },
+    {
+      "source": "经济学人 - 国际",
+      "title_en": "Business",
+      "title_cn": "Business",
+      "desc_en": "",
+      "desc_cn": "",
+      "link": "https://www.economist.com/the-world-this-week/2026/10/08/business"
     },
     {
       "source": "Nature 最新研究",
-      "title_en": "Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
-      "title_cn": "Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
-      "desc_en": "<p>Nature, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11242-8\">doi:10.1038/s41586-026-11242-8</a></p>Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
-      "desc_cn": "<p>Nature, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11242-8\">doi:10.1038/s41586-026-11242-8</a></p>Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
-      "link": "https://www.nature.com/articles/s41586-026-11242-8"
+      "title_en": "Is AI eroding PhD students’ critical thinking and analysis skills?",
+      "title_cn": "Is AI eroding PhD students’ critical thinking and analysis skills?",
+      "desc_en": "<p>Nature, Published online: 15 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03178-w\">doi:10.1038/d41586-026-03178-w</a></p>An expert panel debates the impact of artificial intelligence on doctoral programmes.",
+      "desc_cn": "<p>Nature, Published online: 15 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03178-w\">doi:10.1038/d41586-026-03178-w</a></p>An expert panel debates the impact of artificial intelligence on doctoral programmes.",
+      "link": "https://www.nature.com/articles/d41586-026-03178-w"
     },
     {
       "source": "Nature 最新研究",
-      "title_en": "This is why butterflies are so hard to catch",
-      "title_cn": "This is why butterflies are so hard to catch",
-      "desc_en": "<p>Nature, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03301-x\">doi:10.1038/d41586-026-03301-x</a></p>High-speed camera footage reveals the visual tricks butterflies use to evade predators.",
-      "desc_cn": "<p>Nature, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03301-x\">doi:10.1038/d41586-026-03301-x</a></p>High-speed camera footage reveals the visual tricks butterflies use to evade predators.",
-      "link": "https://www.nature.com/articles/d41586-026-03301-x"
+      "title_en": "World’s timekeepers upend how they adjust time to avoid catastrophic ‘negative second’",
+      "title_cn": "World’s timekeepers upend how they adjust time to avoid catastrophic ‘negative second’",
+      "desc_en": "<p>Nature, Published online: 15 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03329-z\">doi:10.1038/d41586-026-03329-z</a></p>Governments have voted to abolish the leap second immediately and replace it with a leap hour.",
+      "desc_cn": "<p>Nature, Published online: 15 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03329-z\">doi:10.1038/d41586-026-03329-z</a></p>Governments have voted to abolish the leap second immediately and replace it with a leap hour.",
+      "link": "https://www.nature.com/articles/d41586-026-03329-z"
     },
     {
       "source": "Nature 最新研究",
-      "title_en": "Biomedical engineering is growing rapidly, but will it help patients?",
-      "title_cn": "Biomedical engineering is growing rapidly, but will it help patients?",
-      "desc_en": "<p>Nature, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03202-z\">doi:10.1038/d41586-026-03202-z</a></p>Assimilating the latest technology into health systems is a key challenge facing the field.",
-      "desc_cn": "<p>Nature, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03202-z\">doi:10.1038/d41586-026-03202-z</a></p>Assimilating the latest technology into health systems is a key challenge facing the field.",
-      "link": "https://www.nature.com/articles/d41586-026-03202-z"
+      "title_en": "Orangutan mothers arrange play dates for their babies",
+      "title_cn": "Orangutan mothers arrange play dates for their babies",
+      "desc_en": "<p>Nature, Published online: 15 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03238-1\">doi:10.1038/d41586-026-03238-1</a></p>Solitary primates spend energy and time travelling to patches of forest for get-togethers.",
+      "desc_cn": "<p>Nature, Published online: 15 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03238-1\">doi:10.1038/d41586-026-03238-1</a></p>Solitary primates spend energy and time travelling to patches of forest for get-togethers.",
+      "link": "https://www.nature.com/articles/d41586-026-03238-1"
     },
     {
       "source": "Nature 最新研究",
-      "title_en": "Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
-      "title_cn": "Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
-      "desc_en": "<p>Nature, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11267-z\">doi:10.1038/s41586-026-11267-z</a></p>Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
-      "desc_cn": "<p>Nature, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11267-z\">doi:10.1038/s41586-026-11267-z</a></p>Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
-      "link": "https://www.nature.com/articles/s41586-026-11267-z"
+      "title_en": "Nearly half of reef-building corals face elevated relative risk of extinction",
+      "title_cn": "Nearly half of reef-building corals face elevated relative risk of extinction",
+      "desc_en": "<p>Nature, Published online: 15 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11263-3\">doi:10.1038/s41586-026-11263-3</a></p>Nearly half of reef-building corals face elevated relative risk of extinction",
+      "desc_cn": "<p>Nature, Published online: 15 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11263-3\">doi:10.1038/s41586-026-11263-3</a></p>Nearly half of reef-building corals face elevated relative risk of extinction",
+      "link": "https://www.nature.com/articles/s41586-026-11263-3"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-      "title_cn": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-      "desc_en": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-      "desc_cn": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss"
+      "title_en": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "title_cn": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "desc_en": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+      "desc_cn": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "Student protesters attack government buildings in Albania",
-      "title_cn": "Student protesters attack government buildings in Albania",
-      "desc_en": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
-      "desc_cn": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
-      "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss"
+      "title_en": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "title_cn": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "desc_en": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "desc_cn": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "Pope walking and recovering 'as expected' after surgery, doctors say",
-      "title_cn": "Pope walking and recovering 'as expected' after surgery, doctors say",
-      "desc_en": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
-      "desc_cn": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss"
+      "title_en": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "title_cn": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "desc_en": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+      "desc_cn": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "US inflation rises more than expected - here's what is happening with prices",
-      "title_cn": "US inflation rises more than expected - here's what is happening with prices",
-      "desc_en": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-      "desc_cn": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
+      "title_en": "Maduro pleads not guilty to new torture-related charges in New York",
+      "title_cn": "Maduro pleads not guilty to new torture-related charges in New York",
+      "desc_en": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
+      "desc_cn": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
