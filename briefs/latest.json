@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "items": [
     {
       "source": "华尔街日报 - 科技",
@@ -66,68 +66,36 @@
       "link": "https://www.economist.com/the-world-this-week/2026/10/08/business"
     },
     {
-      "source": "Nature 最新研究",
-      "title_en": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
-      "title_cn": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
-      "desc_en": "<p>Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03341-3\">doi:10.1038/d41586-026-03341-3</a></p>Nature staff discuss a new ink that could be useful for medical tattooing — plus, an insight into why small dogs live longer than big ones.",
-      "desc_cn": "<p>Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03341-3\">doi:10.1038/d41586-026-03341-3</a></p>Nature staff discuss a new ink that could be useful for medical tattooing — plus, an insight into why small dogs live longer than big ones.",
-      "link": "https://www.nature.com/articles/d41586-026-03341-3"
-    },
-    {
-      "source": "Nature 最新研究",
-      "title_en": "The pianist who never played",
-      "title_cn": "The pianist who never played",
-      "desc_en": "<p>Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03112-0\">doi:10.1038/d41586-026-03112-0</a></p>A note to self.",
-      "desc_cn": "<p>Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03112-0\">doi:10.1038/d41586-026-03112-0</a></p>A note to self.",
-      "link": "https://www.nature.com/articles/d41586-026-03112-0"
-    },
-    {
-      "source": "Nature 最新研究",
-      "title_en": "IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential",
-      "title_cn": "IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential",
-      "desc_en": "<p>Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03308-4\">doi:10.1038/d41586-026-03308-4</a></p>Building the Nobel-prizewinning neutrino experiment was a big risk. To continue its success, scientists — and funders — need to stay bold.",
-      "desc_cn": "<p>Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03308-4\">doi:10.1038/d41586-026-03308-4</a></p>Building the Nobel-prizewinning neutrino experiment was a big risk. To continue its success, scientists — and funders — need to stay bold.",
-      "link": "https://www.nature.com/articles/d41586-026-03308-4"
-    },
-    {
-      "source": "Nature 最新研究",
-      "title_en": "Memory stays strong in old age when this brain enzyme is active",
-      "title_cn": "Memory stays strong in old age when this brain enzyme is active",
-      "desc_en": "<p>Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03303-9\">doi:10.1038/d41586-026-03303-9</a></p>Data from mouse brains and 13 human brains show a link between levels of a lipid-degrading enzyme and cognitive resilience.",
-      "desc_cn": "<p>Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03303-9\">doi:10.1038/d41586-026-03303-9</a></p>Data from mouse brains and 13 human brains show a link between levels of a lipid-degrading enzyme and cognitive resilience.",
-      "link": "https://www.nature.com/articles/d41586-026-03303-9"
+      "source": "BBC 国际新闻",
+      "title_en": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "title_cn": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "desc_en": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+      "desc_cn": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+      "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "Macron calls for 'calm and order' after riots across France",
-      "title_cn": "Macron calls for 'calm and order' after riots across France",
-      "desc_en": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-      "desc_cn": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
+      "title_en": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "title_cn": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "desc_en": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+      "desc_cn": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "'Very upsetting': Residents in shock after historic French town hall set alight",
-      "title_cn": "'Very upsetting': Residents in shock after historic French town hall set alight",
-      "desc_en": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
-      "desc_cn": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
-      "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss"
+      "title_en": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "title_cn": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "desc_en": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+      "desc_cn": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "Major fire at Canada military base leaves four dead, dozens injured",
-      "title_cn": "Major fire at Canada military base leaves four dead, dozens injured",
-      "desc_en": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
-      "desc_cn": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
-      "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC 国际新闻",
-      "title_en": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "title_cn": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "desc_en": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-      "desc_cn": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss"
+      "title_en": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "title_cn": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "desc_en": "The two top tennis pros married in 2021 and have one child together.",
+      "desc_cn": "The two top tennis pros married in 2021 and have one child together.",
+      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
