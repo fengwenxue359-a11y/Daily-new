@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "items": [
     {
       "source": "华尔街日报 - 科技",
@@ -66,36 +66,68 @@
       "link": "https://www.economist.com/the-world-this-week/2026/10/08/business"
     },
     {
-      "source": "BBC 国际新闻",
-      "title_en": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "title_cn": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "desc_en": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
-      "desc_cn": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
-      "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
+      "source": "Nature 最新研究",
+      "title_en": "Is it ‘moon-stroke’, or a chill?",
+      "title_cn": "Is it ‘moon-stroke’, or a chill?",
+      "desc_en": "<p>Nature, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02975-7\">doi:10.1038/d41586-026-02975-7</a></p>An explanation for the injurious effect of sleeping in the moonlight, and a proponent of all-electronic televisions, in this week’s pick from the Nature archive.",
+      "desc_cn": "<p>Nature, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02975-7\">doi:10.1038/d41586-026-02975-7</a></p>An explanation for the injurious effect of sleeping in the moonlight, and a proponent of all-electronic televisions, in this week’s pick from the Nature archive.",
+      "link": "https://www.nature.com/articles/d41586-026-02975-7"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "Bundle water safeguards into critical-mineral licences",
+      "title_cn": "Bundle water safeguards into critical-mineral licences",
+      "desc_en": "<p>Nature, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03353-z\">doi:10.1038/d41586-026-03353-z</a></p>Bundle water safeguards into critical-mineral licences",
+      "desc_cn": "<p>Nature, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03353-z\">doi:10.1038/d41586-026-03353-z</a></p>Bundle water safeguards into critical-mineral licences",
+      "link": "https://www.nature.com/articles/d41586-026-03353-z"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "Nobel-prizewinning breakthroughs can emerge from neglected organisms",
+      "title_cn": "Nobel-prizewinning breakthroughs can emerge from neglected organisms",
+      "desc_en": "<p>Nature, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03351-1\">doi:10.1038/d41586-026-03351-1</a></p>Nobel-prizewinning breakthroughs can emerge from neglected organisms",
+      "desc_cn": "<p>Nature, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03351-1\">doi:10.1038/d41586-026-03351-1</a></p>Nobel-prizewinning breakthroughs can emerge from neglected organisms",
+      "link": "https://www.nature.com/articles/d41586-026-03351-1"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "Conservation planning should follow animal clocks",
+      "title_cn": "Conservation planning should follow animal clocks",
+      "desc_en": "<p>Nature, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03354-y\">doi:10.1038/d41586-026-03354-y</a></p>Conservation planning should follow animal clocks",
+      "desc_cn": "<p>Nature, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03354-y\">doi:10.1038/d41586-026-03354-y</a></p>Conservation planning should follow animal clocks",
+      "link": "https://www.nature.com/articles/d41586-026-03354-y"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "title_cn": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "desc_en": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-      "desc_cn": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
+      "title_en": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "title_cn": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "desc_en": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "desc_cn": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "title_cn": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "desc_en": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-      "desc_cn": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
+      "title_en": "France is divided over who to blame for and what to learn from weekend riots",
+      "title_cn": "France is divided over who to blame for and what to learn from weekend riots",
+      "desc_en": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+      "desc_cn": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-      "title_cn": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-      "desc_en": "The two top tennis pros married in 2021 and have one child together.",
-      "desc_cn": "The two top tennis pros married in 2021 and have one child together.",
-      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss"
+      "title_en": "Elon Musk says Tesla-SpaceX merger being considered",
+      "title_cn": "Elon Musk says Tesla-SpaceX merger being considered",
+      "desc_en": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "desc_cn": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC 国际新闻",
+      "title_en": "Man charged with attack on Australia MP to face court",
+      "title_cn": "Man charged with attack on Australia MP to face court",
+      "desc_en": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+      "desc_cn": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+      "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
