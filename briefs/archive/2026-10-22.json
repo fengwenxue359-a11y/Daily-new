@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-22",
+  "items": [
+    {
+      "source": "华尔街日报 - 科技",
+      "title_en": "What to Know About China's DeepSeek AI",
+      "title_cn": "What to Know About China's DeepSeek AI",
+      "desc_en": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
+      "desc_cn": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
+      "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
+    },
+    {
+      "source": "华尔街日报 - 科技",
+      "title_en": "Tech, Media & Telecom Roundup: Market Talk",
+      "title_cn": "Tech, Media & Telecom Roundup: Market Talk",
+      "desc_en": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "desc_cn": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology"
+    },
+    {
+      "source": "华尔街日报 - 科技",
+      "title_en": "Silicon Valley Is Raving About a Made-in-China AI Model",
+      "title_cn": "Silicon Valley Is Raving About a Made-in-China AI Model",
+      "desc_en": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
+      "desc_cn": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
+      "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
+    },
+    {
+      "source": "华尔街日报 - 科技",
+      "title_en": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
+      "title_cn": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
+      "desc_en": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
+      "desc_cn": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
+      "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
+    },
+    {
+      "source": "经济学人 - 国际",
+      "title_en": "Cartoon: AI tsunami",
+      "title_cn": "Cartoon: AI tsunami",
+      "desc_en": "A lighter take on the news",
+      "desc_cn": "A lighter take on the news",
+      "link": "https://www.economist.com/the-world-this-week/2026/10/15/cartoon-ai-tsunami"
+    },
+    {
+      "source": "经济学人 - 国际",
+      "title_en": "Politics",
+      "title_cn": "Politics",
+      "desc_en": "",
+      "desc_cn": "",
+      "link": "https://www.economist.com/the-world-this-week/2026/10/15/politics"
+    },
+    {
+      "source": "经济学人 - 国际",
+      "title_en": "Business",
+      "title_cn": "Business",
+      "desc_en": "",
+      "desc_cn": "",
+      "link": "https://www.economist.com/the-world-this-week/2026/10/15/business"
+    },
+    {
+      "source": "经济学人 - 国际",
+      "title_en": "Business",
+      "title_cn": "Business",
+      "desc_en": "",
+      "desc_cn": "",
+      "link": "https://www.economist.com/the-world-this-week/2026/10/08/business"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "<i>De novo</i> design of enantioselective artificial metalloenzyme photocatalysts",
+      "title_cn": "<i>De novo</i> design of enantioselective artificial metalloenzyme photocatalysts",
+      "desc_en": "<p>Nature, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11317-6\">doi:10.1038/s41586-026-11317-6</a></p><i>De novo</i> design of enantioselective artificial metalloenzyme photocatalysts",
+      "desc_cn": "<p>Nature, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11317-6\">doi:10.1038/s41586-026-11317-6</a></p><i>De novo</i> design of enantioselective artificial metalloenzyme photocatalysts",
+      "link": "https://www.nature.com/articles/s41586-026-11317-6"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "Scientists put a salt marsh in a giant wave-machine: here's what they learned",
+      "title_cn": "Scientists put a salt marsh in a giant wave-machine: here's what they learned",
+      "desc_en": "<p>Nature, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03376-6\">doi:10.1038/d41586-026-03376-6</a></p>Experiment shows how these ecosystems could protect coastlines from huge storms — plus, new evidence hints at what Denisovans might have looked like.",
+      "desc_cn": "<p>Nature, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03376-6\">doi:10.1038/d41586-026-03376-6</a></p>Experiment shows how these ecosystems could protect coastlines from huge storms — plus, new evidence hints at what Denisovans might have looked like.",
+      "link": "https://www.nature.com/articles/d41586-026-03376-6"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids",
+      "title_cn": "Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids",
+      "desc_en": "<p>Nature, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11252-6\">doi:10.1038/s41586-026-11252-6</a></p>Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids",
+      "desc_cn": "<p>Nature, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11252-6\">doi:10.1038/s41586-026-11252-6</a></p>Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids",
+      "link": "https://www.nature.com/articles/s41586-026-11252-6"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "Surprise! White dwarf stars come in a rainbow of colours",
+      "title_cn": "Surprise! White dwarf stars come in a rainbow of colours",
+      "desc_en": "<p>Nature, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03319-1\">doi:10.1038/d41586-026-03319-1</a></p>Analysis of some nearby stars shows that, despite their name, these bodies can be pink, yellow and more.",
+      "desc_cn": "<p>Nature, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03319-1\">doi:10.1038/d41586-026-03319-1</a></p>Analysis of some nearby stars shows that, despite their name, these bodies can be pink, yellow and more.",
+      "link": "https://www.nature.com/articles/d41586-026-03319-1"
+    },
+    {
+      "source": "BBC 国际新闻",
+      "title_en": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "title_cn": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "desc_en": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+      "desc_cn": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC 国际新闻",
+      "title_en": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "title_cn": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "desc_en": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+      "desc_cn": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC 国际新闻",
+      "title_en": "Macron accuses foreign leaders of exploiting French riots",
+      "title_cn": "Macron accuses foreign leaders of exploiting French riots",
+      "desc_en": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+      "desc_cn": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC 国际新闻",
+      "title_en": "Pope does not need further treatment after lung cancer surgery",
+      "title_cn": "Pope does not need further treatment after lung cancer surgery",
+      "desc_en": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
+      "desc_cn": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
