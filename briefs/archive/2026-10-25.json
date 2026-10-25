@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-25",
+  "items": [
+    {
+      "source": "华尔街日报 - 科技",
+      "title_en": "What to Know About China's DeepSeek AI",
+      "title_cn": "What to Know About China's DeepSeek AI",
+      "desc_en": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
+      "desc_cn": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
+      "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
+    },
+    {
+      "source": "华尔街日报 - 科技",
+      "title_en": "Tech, Media & Telecom Roundup: Market Talk",
+      "title_cn": "Tech, Media & Telecom Roundup: Market Talk",
+      "desc_en": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "desc_cn": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology"
+    },
+    {
+      "source": "华尔街日报 - 科技",
+      "title_en": "Silicon Valley Is Raving About a Made-in-China AI Model",
+      "title_cn": "Silicon Valley Is Raving About a Made-in-China AI Model",
+      "desc_en": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
+      "desc_cn": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
+      "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
+    },
+    {
+      "source": "华尔街日报 - 科技",
+      "title_en": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
+      "title_cn": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
+      "desc_en": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
+      "desc_cn": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
+      "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
+    },
+    {
+      "source": "经济学人 - 国际",
+      "title_en": "Cover Story newsletter: The agony of liberal Europe",
+      "title_cn": "Cover Story newsletter: The agony of liberal Europe",
+      "desc_en": "An exclusive look at how we designed our cover",
+      "desc_cn": "An exclusive look at how we designed our cover",
+      "link": "https://www.economist.com/the-world-this-week/2026/10/24/cover-story-newsletter-the-agony-of-liberal-europe"
+    },
+    {
+      "source": "经济学人 - 国际",
+      "title_en": "Business",
+      "title_cn": "Business",
+      "desc_en": "The world this week",
+      "desc_cn": "The world this week",
+      "link": "https://www.economist.com/the-world-this-week/2026/10/22/business"
+    },
+    {
+      "source": "经济学人 - 国际",
+      "title_en": "Politics",
+      "title_cn": "Politics",
+      "desc_en": "The world this week",
+      "desc_cn": "The world this week",
+      "link": "https://www.economist.com/the-world-this-week/2026/10/22/politics"
+    },
+    {
+      "source": "经济学人 - 国际",
+      "title_en": "Cartoon: France’s clean up",
+      "title_cn": "Cartoon: France’s clean up",
+      "desc_en": "A lighter take on the news",
+      "desc_cn": "A lighter take on the news",
+      "link": "https://www.economist.com/the-world-this-week/2026/10/22/cartoon-frances-clean-up"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+      "title_cn": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+      "desc_en": "<p>Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11303-y\">doi:10.1038/s41586-026-11303-y</a></p>Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+      "desc_cn": "<p>Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11303-y\">doi:10.1038/s41586-026-11303-y</a></p>Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+      "link": "https://www.nature.com/articles/s41586-026-11303-y"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "Elusive snow leopards and evasive particles: Books in brief",
+      "title_cn": "Elusive snow leopards and evasive particles: Books in brief",
+      "desc_en": "<p>Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03395-3\">doi:10.1038/d41586-026-03395-3</a></p>Andrew Robinson reviews five of the best science picks.",
+      "desc_cn": "<p>Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03395-3\">doi:10.1038/d41586-026-03395-3</a></p>Andrew Robinson reviews five of the best science picks.",
+      "link": "https://www.nature.com/articles/d41586-026-03395-3"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "Sleep declines in rural communities after electricity arrives",
+      "title_cn": "Sleep declines in rural communities after electricity arrives",
+      "desc_en": "<p>Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03318-2\">doi:10.1038/d41586-026-03318-2</a></p>Scientists tracked the changing sleep patterns of Indigenous people in Argentina who gained access to mains electricity — and smart phones.",
+      "desc_cn": "<p>Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03318-2\">doi:10.1038/d41586-026-03318-2</a></p>Scientists tracked the changing sleep patterns of Indigenous people in Argentina who gained access to mains electricity — and smart phones.",
+      "link": "https://www.nature.com/articles/d41586-026-03318-2"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent",
+      "title_cn": "Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent",
+      "desc_en": "<p>Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03418-z\">doi:10.1038/d41586-026-03418-z</a></p>Nature staff discuss how precisely measuring a positron could shed light on one of physics’ greatest mysteries — plus, the latest on an ambitious mission to a Martian moon.",
+      "desc_cn": "<p>Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03418-z\">doi:10.1038/d41586-026-03418-z</a></p>Nature staff discuss how precisely measuring a positron could shed light on one of physics’ greatest mysteries — plus, the latest on an ambitious mission to a Martian moon.",
+      "link": "https://www.nature.com/articles/d41586-026-03418-z"
+    },
+    {
+      "source": "BBC 国际新闻",
+      "title_en": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "title_cn": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "desc_en": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+      "desc_cn": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC 国际新闻",
+      "title_en": "Ukraine says Starlink connection 'now stable' after network limits",
+      "title_cn": "Ukraine says Starlink connection 'now stable' after network limits",
+      "desc_en": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "desc_cn": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC 国际新闻",
+      "title_en": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "title_cn": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "desc_en": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "desc_cn": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC 国际新闻",
+      "title_en": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "title_cn": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "desc_en": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "desc_cn": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
