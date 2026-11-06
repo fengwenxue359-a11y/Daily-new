@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "items": [
     {
       "source": "华尔街日报 - 科技",
@@ -35,27 +35,19 @@
     },
     {
       "source": "经济学人 - 国际",
-      "title_en": "Cover Story newsletter: The Americans changing politics for the better",
-      "title_cn": "Cover Story newsletter: The Americans changing politics for the better",
-      "desc_en": "An exclusive look at how we designed our cover",
-      "desc_cn": "An exclusive look at how we designed our cover",
-      "link": "https://www.economist.com/the-world-this-week/2026/10/31/cover-story-newsletter-the-americans-changing-politics-for-the-better"
-    },
-    {
-      "source": "经济学人 - 国际",
-      "title_en": "Cartoon: Israel’s election",
-      "title_cn": "Cartoon: Israel’s election",
-      "desc_en": "A lighter take on the news",
-      "desc_cn": "A lighter take on the news",
-      "link": "https://www.economist.com/the-world-this-week/2026/10/29/cartoon-israels-election"
-    },
-    {
-      "source": "经济学人 - 国际",
       "title_en": "Business",
       "title_cn": "Business",
       "desc_en": "",
       "desc_cn": "",
-      "link": "https://www.economist.com/the-world-this-week/2026/10/29/business"
+      "link": "https://www.economist.com/the-world-this-week/2026/11/05/business"
+    },
+    {
+      "source": "经济学人 - 国际",
+      "title_en": "Cartoon: The results of the midterms",
+      "title_cn": "Cartoon: The results of the midterms",
+      "desc_en": "A lighter take on the news",
+      "desc_cn": "A lighter take on the news",
+      "link": "https://www.economist.com/the-world-this-week/2026/11/05/cartoon-the-results-of-the-midterms"
     },
     {
       "source": "经济学人 - 国际",
@@ -63,7 +55,39 @@
       "title_cn": "Politics",
       "desc_en": "",
       "desc_cn": "",
-      "link": "https://www.economist.com/the-world-this-week/2026/10/29/politics"
+      "link": "https://www.economist.com/the-world-this-week/2026/11/05/politics"
+    },
+    {
+      "source": "经济学人 - 国际",
+      "title_en": "Cover Story newsletter: The Americans changing politics for the better",
+      "title_cn": "Cover Story newsletter: The Americans changing politics for the better",
+      "desc_en": "An exclusive look at how we designed our cover",
+      "desc_cn": "An exclusive look at how we designed our cover",
+      "link": "https://www.economist.com/the-world-this-week/2026/10/31/cover-story-newsletter-the-americans-changing-politics-for-the-better"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
+      "title_cn": "Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
+      "desc_en": "<p>Nature, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11336-3\">doi:10.1038/s41586-026-11336-3</a></p>Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
+      "desc_cn": "<p>Nature, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11336-3\">doi:10.1038/s41586-026-11336-3</a></p>Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
+      "link": "https://www.nature.com/articles/s41586-026-11336-3"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
+      "title_cn": "Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
+      "desc_en": "<p>Nature, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11351-4\">doi:10.1038/s41586-026-11351-4</a></p>Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
+      "desc_cn": "<p>Nature, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11351-4\">doi:10.1038/s41586-026-11351-4</a></p>Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
+      "link": "https://www.nature.com/articles/s41586-026-11351-4"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "The surprising reason women in academia do more parenting than men",
+      "title_cn": "The surprising reason women in academia do more parenting than men",
+      "desc_en": "<p>Nature, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03568-0\">doi:10.1038/d41586-026-03568-0</a></p>Policies designed to keep women in the workforce could be entrenching gendered parenting roles.",
+      "desc_cn": "<p>Nature, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03568-0\">doi:10.1038/d41586-026-03568-0</a></p>Policies designed to keep women in the workforce could be entrenching gendered parenting roles.",
+      "link": "https://www.nature.com/articles/d41586-026-03568-0"
     },
     {
       "source": "Nature 最新研究",
@@ -74,60 +98,36 @@
       "link": "https://www.nature.com/articles/d41586-026-03487-0"
     },
     {
-      "source": "Nature 最新研究",
-      "title_en": "Why not to wait even a few minutes before fleeing a tsunami",
-      "title_cn": "Why not to wait even a few minutes before fleeing a tsunami",
-      "desc_en": "<p>Nature, Published online: 04 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03539-5\">doi:10.1038/d41586-026-03539-5</a></p>Simulation shows that hesitating can be the difference between making it to safety and not.",
-      "desc_cn": "<p>Nature, Published online: 04 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03539-5\">doi:10.1038/d41586-026-03539-5</a></p>Simulation shows that hesitating can be the difference between making it to safety and not.",
-      "link": "https://www.nature.com/articles/d41586-026-03539-5"
-    },
-    {
-      "source": "Nature 最新研究",
-      "title_en": "Toothbrush zaps bacteria with electricity made when bristles move",
-      "title_cn": "Toothbrush zaps bacteria with electricity made when bristles move",
-      "desc_en": "<p>Nature, Published online: 04 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03586-y\">doi:10.1038/d41586-026-03586-y</a></p>Innovative polymer could give the manual toothbrush its first radical redesign in more than 1,000 years.",
-      "desc_cn": "<p>Nature, Published online: 04 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03586-y\">doi:10.1038/d41586-026-03586-y</a></p>Innovative polymer could give the manual toothbrush its first radical redesign in more than 1,000 years.",
-      "link": "https://www.nature.com/articles/d41586-026-03586-y"
-    },
-    {
-      "source": "Nature 最新研究",
-      "title_en": "First-of-its-kind planetary wreckage holds clues to our Solar System’s fate",
-      "title_cn": "First-of-its-kind planetary wreckage holds clues to our Solar System’s fate",
-      "desc_en": "<p>Nature, Published online: 04 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03537-7\">doi:10.1038/d41586-026-03537-7</a></p>Astronomers spot an unprecedented double disk of debris around a dead star.",
-      "desc_cn": "<p>Nature, Published online: 04 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03537-7\">doi:10.1038/d41586-026-03537-7</a></p>Astronomers spot an unprecedented double disk of debris around a dead star.",
-      "link": "https://www.nature.com/articles/d41586-026-03537-7"
+      "source": "BBC 国际新闻",
+      "title_en": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "title_cn": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "desc_en": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+      "desc_cn": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "title_cn": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "desc_en": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
-      "desc_cn": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
-      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+      "title_en": "Trump signs order preventing future presidents from changing Oval Office",
+      "title_cn": "Trump signs order preventing future presidents from changing Oval Office",
+      "desc_en": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+      "desc_cn": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "What Democrats can and can't do with their new power after taking Congress",
-      "title_cn": "What Democrats can and can't do with their new power after taking Congress",
-      "desc_en": "Democrats can vote legislation through. But Trump still has veto power.",
-      "desc_cn": "Democrats can vote legislation through. But Trump still has veto power.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss"
+      "title_en": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "title_cn": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "desc_en": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
+      "desc_cn": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "title_cn": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "desc_en": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-      "desc_cn": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC 国际新闻",
-      "title_en": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "title_cn": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "desc_en": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-      "desc_cn": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss"
+      "title_en": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "title_cn": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "desc_en": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+      "desc_cn": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
