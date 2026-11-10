@@ -1,0 +1,133 @@
+{
+  "date": "2026-11-10",
+  "items": [
+    {
+      "source": "华尔街日报 - 科技",
+      "title_en": "What to Know About China's DeepSeek AI",
+      "title_cn": "What to Know About China's DeepSeek AI",
+      "desc_en": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
+      "desc_cn": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
+      "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology"
+    },
+    {
+      "source": "华尔街日报 - 科技",
+      "title_en": "Tech, Media & Telecom Roundup: Market Talk",
+      "title_cn": "Tech, Media & Telecom Roundup: Market Talk",
+      "desc_en": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "desc_cn": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology"
+    },
+    {
+      "source": "华尔街日报 - 科技",
+      "title_en": "Silicon Valley Is Raving About a Made-in-China AI Model",
+      "title_cn": "Silicon Valley Is Raving About a Made-in-China AI Model",
+      "desc_en": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
+      "desc_cn": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
+      "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology"
+    },
+    {
+      "source": "华尔街日报 - 科技",
+      "title_en": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
+      "title_cn": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
+      "desc_en": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
+      "desc_cn": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
+      "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology"
+    },
+    {
+      "source": "经济学人 - 国际",
+      "title_en": "Cover Story newsletter: Wipeout",
+      "title_cn": "Cover Story newsletter: Wipeout",
+      "desc_en": "An exclusive look at how we designed our cover",
+      "desc_cn": "An exclusive look at how we designed our cover",
+      "link": "https://www.economist.com/the-world-this-week/2026/11/09/cover-story-newsletter-wipeout"
+    },
+    {
+      "source": "经济学人 - 国际",
+      "title_en": "Business",
+      "title_cn": "Business",
+      "desc_en": "",
+      "desc_cn": "",
+      "link": "https://www.economist.com/the-world-this-week/2026/11/05/business"
+    },
+    {
+      "source": "经济学人 - 国际",
+      "title_en": "Cartoon: The results of the midterms",
+      "title_cn": "Cartoon: The results of the midterms",
+      "desc_en": "A lighter take on the news",
+      "desc_cn": "A lighter take on the news",
+      "link": "https://www.economist.com/the-world-this-week/2026/11/05/cartoon-the-results-of-the-midterms"
+    },
+    {
+      "source": "经济学人 - 国际",
+      "title_en": "Politics",
+      "title_cn": "Politics",
+      "desc_en": "",
+      "desc_cn": "",
+      "link": "https://www.economist.com/the-world-this-week/2026/11/05/politics"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission",
+      "title_cn": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission",
+      "desc_en": "<p>Nature, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03588-w\">doi:10.1038/d41586-026-03588-w</a></p>Engineer Matthew Montgomery, who just finished a 378-day simulated Mars mission, talks about what it was like to be out of contact with the rest of humanity for a two-week blackout.",
+      "desc_cn": "<p>Nature, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03588-w\">doi:10.1038/d41586-026-03588-w</a></p>Engineer Matthew Montgomery, who just finished a 378-day simulated Mars mission, talks about what it was like to be out of contact with the rest of humanity for a two-week blackout.",
+      "link": "https://www.nature.com/articles/d41586-026-03588-w"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "The super El Niño is more than a climate shock – it’s a health one, too",
+      "title_cn": "The super El Niño is more than a climate shock – it’s a health one, too",
+      "desc_en": "<p>Nature, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03628-5\">doi:10.1038/d41586-026-03628-5</a></p>Food shortages and disease outbreaks are to be expected and need to be addressed together.",
+      "desc_cn": "<p>Nature, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03628-5\">doi:10.1038/d41586-026-03628-5</a></p>Food shortages and disease outbreaks are to be expected and need to be addressed together.",
+      "link": "https://www.nature.com/articles/d41586-026-03628-5"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "How to make failure your friend and teacher in science",
+      "title_cn": "How to make failure your friend and teacher in science",
+      "desc_en": "<p>Nature, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03654-3\">doi:10.1038/d41586-026-03654-3</a></p>Apprentices develop expertise after doing monotonous tasks repeatedly and learning from their mistakes. Scientists are no different, argues Ruth Morgan.",
+      "desc_cn": "<p>Nature, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03654-3\">doi:10.1038/d41586-026-03654-3</a></p>Apprentices develop expertise after doing monotonous tasks repeatedly and learning from their mistakes. Scientists are no different, argues Ruth Morgan.",
+      "link": "https://www.nature.com/articles/d41586-026-03654-3"
+    },
+    {
+      "source": "Nature 最新研究",
+      "title_en": "Carlo Rovelli says fundamental physics is overrated",
+      "title_cn": "Carlo Rovelli says fundamental physics is overrated",
+      "desc_en": "<p>Nature, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03626-7\">doi:10.1038/d41586-026-03626-7</a></p>The theoretical physicist unpacks the need for more humility in science and whether artificial intelligence could ever become conscious.",
+      "desc_cn": "<p>Nature, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03626-7\">doi:10.1038/d41586-026-03626-7</a></p>The theoretical physicist unpacks the need for more humility in science and whether artificial intelligence could ever become conscious.",
+      "link": "https://www.nature.com/articles/d41586-026-03626-7"
+    },
+    {
+      "source": "BBC 国际新闻",
+      "title_en": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "title_cn": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "desc_en": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "desc_cn": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC 国际新闻",
+      "title_en": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "title_cn": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "desc_en": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "desc_cn": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC 国际新闻",
+      "title_en": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "title_cn": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "desc_en": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "desc_cn": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC 国际新闻",
+      "title_en": "Trump says more US attacks on Iran 'highly unlikely'",
+      "title_cn": "Trump says more US attacks on Iran 'highly unlikely'",
+      "desc_en": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+      "desc_cn": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
