@@ -1,6 +1,14 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "items": [
+    {
+      "source": "Huberman Lab (YouTube)",
+      "title_en": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
+      "title_cn": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
+      "desc_en": "In this Huberman Lab Essentials episode, I explain how nicotine affects the brain and body, including how it increases dopamine, acetylcholine and norepinephrine to boost motivation, focus and alertness, suppresses appetite and raises heart rate and blood pressure. I distinguish nicotine itself from its delivery methods — smoking, vaping, dipping and snuffing — and explain their serious health risks, why vaping is especially habit-forming and why quitting is so difficult. I also discuss science-based tools to quit smoking or vaping, including clinical hypnosis, prescription medication and nico",
+      "desc_cn": "In this Huberman Lab Essentials episode, I explain how nicotine affects the brain and body, including how it increases dopamine, acetylcholine and norepinephrine to boost motivation, focus and alertness, suppresses appetite and raises heart rate and blood pressure. I distinguish nicotine itself from its delivery methods — smoking, vaping, dipping and snuffing — and explain their serious health risks, why vaping is especially habit-forming and why quitting is so difficult. I also discuss science-based tools to quit smoking or vaping, including clinical hypnosis, prescription medication and nico",
+      "link": "https://www.youtube.com/watch?v=8YHTMsy0bT8"
+    },
     {
       "source": "Huberman Lab (YouTube)",
       "title_en": "Mushrooms for the Mind & Immune System | Paul Stamets",
@@ -24,14 +32,6 @@
       "desc_en": "Dr. Anna Lembke discusses addiction and its correlation to our innate desire to assert control and reduce uncertainty. \n\nDr. Anna Lembke is chief of the Addiction Medicine Dual Diagnosis Clinic at Stanford and a leading expert in how to overcome addictions of all kinds. \n\nWatch the full episode: https://www.youtube.com/watch?v=wbJ_Q1xsDHg\n\n#HubermanLab #AnnaLembke #AndrewHuberman #Addiction #Anxiety #Dopamine #Shame #Control",
       "desc_cn": "Dr. Anna Lembke discusses addiction and its correlation to our innate desire to assert control and reduce uncertainty. \n\nDr. Anna Lembke is chief of the Addiction Medicine Dual Diagnosis Clinic at Stanford and a leading expert in how to overcome addictions of all kinds. \n\nWatch the full episode: https://www.youtube.com/watch?v=wbJ_Q1xsDHg\n\n#HubermanLab #AnnaLembke #AndrewHuberman #Addiction #Anxiety #Dopamine #Shame #Control",
       "link": "https://www.youtube.com/shorts/9dWQNg68Ncw"
-    },
-    {
-      "source": "Huberman Lab (YouTube)",
-      "title_en": "Breaking the Codependency Cycle | Dr. Anna Lembke",
-      "title_cn": "Breaking the Codependency Cycle | Dr. Anna Lembke",
-      "desc_en": "Dr. Anna Lembke, MD, is chief of the Addiction Medicine Dual Diagnosis Clinic at Stanford Medicine and a leading expert in how to overcome addictions of all kinds.\n\nWe discuss dopamine dynamics in the brain and how they impact risk-taking, mental obsession, and compulsive behaviors.\n\nWe also discuss the most common addiction of all—people’s addiction to control—how codependency is a common form of that and how prayer and spiritual practices can open up new neural pathways and help end unhealthy thought patterns and behaviors, including codependence.\n\nAnna is the author of the Dopamine Nation a",
-      "desc_cn": "Dr. Anna Lembke, MD, is chief of the Addiction Medicine Dual Diagnosis Clinic at Stanford Medicine and a leading expert in how to overcome addictions of all kinds.\n\nWe discuss dopamine dynamics in the brain and how they impact risk-taking, mental obsession, and compulsive behaviors.\n\nWe also discuss the most common addiction of all—people’s addiction to control—how codependency is a common form of that and how prayer and spiritual practices can open up new neural pathways and help end unhealthy thought patterns and behaviors, including codependence.\n\nAnna is the author of the Dopamine Nation a",
-      "link": "https://www.youtube.com/shorts/pMuud2kayJo"
     },
     {
       "source": "华尔街日报 - 科技",
@@ -67,19 +67,11 @@
     },
     {
       "source": "经济学人 - 国际",
-      "title_en": "Cover Story newsletter: An AI crash, or a bull in the bath?",
-      "title_cn": "Cover Story newsletter: An AI crash, or a bull in the bath?",
-      "desc_en": "An exclusive look at how we designed our cover",
-      "desc_cn": "An exclusive look at how we designed our cover",
-      "link": "https://www.economist.com/the-world-this-week/2026/11/13/cover-story-newsletter-an-ai-crash-or-a-bull-in-the-bath"
-    },
-    {
-      "source": "经济学人 - 国际",
-      "title_en": "Cartoon: The misadventures of Jensen Huang",
-      "title_cn": "Cartoon: The misadventures of Jensen Huang",
+      "title_en": "Cartoon: The meeting of Donald Trump, Xi Jinping and Vladimir Putin",
+      "title_cn": "Cartoon: The meeting of Donald Trump, Xi Jinping and Vladimir Putin",
       "desc_en": "A lighter take on the news",
       "desc_cn": "A lighter take on the news",
-      "link": "https://www.economist.com/the-world-this-week/2026/11/12/cartoon-the-misadventures-of-jensen-huang"
+      "link": "https://www.economist.com/the-world-this-week/2026/11/19/cartoon-the-meeting-of-donald-trump-xi-jinping-and-vladimir-putin"
     },
     {
       "source": "经济学人 - 国际",
@@ -87,7 +79,7 @@
       "title_cn": "Business",
       "desc_en": "",
       "desc_cn": "",
-      "link": "https://www.economist.com/the-world-this-week/2026/11/12/business"
+      "link": "https://www.economist.com/the-world-this-week/2026/11/19/business"
     },
     {
       "source": "经济学人 - 国际",
@@ -95,71 +87,79 @@
       "title_cn": "Politics",
       "desc_en": "",
       "desc_cn": "",
-      "link": "https://www.economist.com/the-world-this-week/2026/11/12/politics"
+      "link": "https://www.economist.com/the-world-this-week/2026/11/19/politics"
+    },
+    {
+      "source": "经济学人 - 国际",
+      "title_en": "Cover Story newsletter: An AI crash, or a bull in the bath?",
+      "title_cn": "Cover Story newsletter: An AI crash, or a bull in the bath?",
+      "desc_en": "An exclusive look at how we designed our cover",
+      "desc_cn": "An exclusive look at how we designed our cover",
+      "link": "https://www.economist.com/the-world-this-week/2026/11/13/cover-story-newsletter-an-ai-crash-or-a-bull-in-the-bath"
     },
     {
       "source": "Nature 最新研究",
-      "title_en": "Conference networking made simple, in three short videos",
-      "title_cn": "Conference networking made simple, in three short videos",
-      "desc_en": "<p>Nature, Published online: 18 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03678-9\">doi:10.1038/d41586-026-03678-9</a></p>Working the room is a skill you can practise and prepare for. Here’s how.",
-      "desc_cn": "<p>Nature, Published online: 18 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03678-9\">doi:10.1038/d41586-026-03678-9</a></p>Working the room is a skill you can practise and prepare for. Here’s how.",
-      "link": "https://www.nature.com/articles/d41586-026-03678-9"
+      "title_en": "Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
+      "title_cn": "Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
+      "desc_en": "<p>Nature, Published online: 19 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11388-5\">doi:10.1038/s41586-026-11388-5</a></p>Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
+      "desc_cn": "<p>Nature, Published online: 19 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11388-5\">doi:10.1038/s41586-026-11388-5</a></p>Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
+      "link": "https://www.nature.com/articles/s41586-026-11388-5"
     },
     {
       "source": "Nature 最新研究",
-      "title_en": "First observation of a giant star swallowing its neighbour",
-      "title_cn": "First observation of a giant star swallowing its neighbour",
-      "desc_en": "<p>Nature, Published online: 18 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03784-8\">doi:10.1038/d41586-026-03784-8</a></p>Finding provides new insights into what happens within stellar mergers — plus, using quantum physics to securely pinpoint someone’s location.",
-      "desc_cn": "<p>Nature, Published online: 18 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03784-8\">doi:10.1038/d41586-026-03784-8</a></p>Finding provides new insights into what happens within stellar mergers — plus, using quantum physics to securely pinpoint someone’s location.",
-      "link": "https://www.nature.com/articles/d41586-026-03784-8"
+      "title_en": "Calcium catalysed nucleophilic fluorination",
+      "title_cn": "Calcium catalysed nucleophilic fluorination",
+      "desc_en": "<p>Nature, Published online: 19 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11445-z\">doi:10.1038/s41586-026-11445-z</a></p>Calcium catalysed nucleophilic fluorination",
+      "desc_cn": "<p>Nature, Published online: 19 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11445-z\">doi:10.1038/s41586-026-11445-z</a></p>Calcium catalysed nucleophilic fluorination",
+      "link": "https://www.nature.com/articles/s41586-026-11445-z"
     },
     {
       "source": "Nature 最新研究",
-      "title_en": "How to make AI data centres more sustainable",
-      "title_cn": "How to make AI data centres more sustainable",
-      "desc_en": "<p>Nature, Published online: 18 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03708-6\">doi:10.1038/d41586-026-03708-6</a></p>Tech companies and governments face opposition over data centres’ expansion, in part because of their huge power requirements. They must not be powered with fossil fuels.",
-      "desc_cn": "<p>Nature, Published online: 18 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03708-6\">doi:10.1038/d41586-026-03708-6</a></p>Tech companies and governments face opposition over data centres’ expansion, in part because of their huge power requirements. They must not be powered with fossil fuels.",
-      "link": "https://www.nature.com/articles/d41586-026-03708-6"
+      "title_en": "More tropical cyclones hit peak fury at the worst possible time",
+      "title_cn": "More tropical cyclones hit peak fury at the worst possible time",
+      "desc_en": "<p>Nature, Published online: 19 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03748-y\">doi:10.1038/d41586-026-03748-y</a></p>Climate change is creating conditions that pump up the intensity of hurricanes and typhoons just as the storms reach the coast.",
+      "desc_cn": "<p>Nature, Published online: 19 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03748-y\">doi:10.1038/d41586-026-03748-y</a></p>Climate change is creating conditions that pump up the intensity of hurricanes and typhoons just as the storms reach the coast.",
+      "link": "https://www.nature.com/articles/d41586-026-03748-y"
     },
     {
       "source": "Nature 最新研究",
-      "title_en": "Microbiome home tests are taking off. Can they be trusted?",
-      "title_cn": "Microbiome home tests are taking off. Can they be trusted?",
-      "desc_en": "<p>Nature, Published online: 18 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03710-y\">doi:10.1038/d41586-026-03710-y</a></p>Our reporter mailed off her poo to find out what two companies say about her microbiome. Here’s what she found.",
-      "desc_cn": "<p>Nature, Published online: 18 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03710-y\">doi:10.1038/d41586-026-03710-y</a></p>Our reporter mailed off her poo to find out what two companies say about her microbiome. Here’s what she found.",
-      "link": "https://www.nature.com/articles/d41586-026-03710-y"
+      "title_en": "People entering old age now have better memory than their parents did",
+      "title_cn": "People entering old age now have better memory than their parents did",
+      "desc_en": "<p>Nature, Published online: 19 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03783-9\">doi:10.1038/d41586-026-03783-9</a></p>Older people today maintain memory function for longer than previous generations did, according to a study of 219,000 adults.",
+      "desc_cn": "<p>Nature, Published online: 19 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03783-9\">doi:10.1038/d41586-026-03783-9</a></p>Older people today maintain memory function for longer than previous generations did, according to a study of 219,000 adults.",
+      "link": "https://www.nature.com/articles/d41586-026-03783-9"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-      "title_cn": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-      "desc_en": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
-      "desc_cn": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
-      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss"
+      "title_en": "UK and EU to agree youth mobility scheme, BBC understands",
+      "title_cn": "UK and EU to agree youth mobility scheme, BBC understands",
+      "desc_en": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+      "desc_cn": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "title_cn": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "desc_en": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "desc_cn": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
+      "title_en": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "title_cn": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "desc_en": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "desc_cn": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-      "title_cn": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-      "desc_en": "No state has ever been found guilty by an international court of committing genocide.",
-      "desc_cn": "No state has ever been found guilty by an international court of committing genocide.",
-      "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss"
+      "title_en": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "title_cn": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "desc_en": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "desc_cn": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-      "title_cn": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-      "desc_en": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
-      "desc_cn": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
-      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+      "title_en": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "title_cn": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "desc_en": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+      "desc_cn": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
