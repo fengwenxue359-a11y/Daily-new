@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "items": [
     {
       "source": "Huberman Lab (YouTube)",
@@ -99,6 +99,14 @@
     },
     {
       "source": "Nature 最新研究",
+      "title_en": "BepiColombo finally reaches Mercury after eight-year odyssey",
+      "title_cn": "BepiColombo finally reaches Mercury after eight-year odyssey",
+      "desc_en": "<p>Nature, Published online: 21 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03803-8\">doi:10.1038/d41586-026-03803-8</a></p>European and Japanese probes will trace different paths around the planet to study its surface and its surroundings.",
+      "desc_cn": "<p>Nature, Published online: 21 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03803-8\">doi:10.1038/d41586-026-03803-8</a></p>European and Japanese probes will trace different paths around the planet to study its surface and its surroundings.",
+      "link": "https://www.nature.com/articles/d41586-026-03803-8"
+    },
+    {
+      "source": "Nature 最新研究",
       "title_en": "How AI is affecting science careers",
       "title_cn": "How AI is affecting science careers",
       "desc_en": "<p>Nature, Published online: 20 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03680-1\">doi:10.1038/d41586-026-03680-1</a></p>Join a free webinar to discuss how the technology is changing researchers' roles, their skills and job security.",
@@ -122,44 +130,36 @@
       "link": "https://www.nature.com/articles/d41586-026-03806-5"
     },
     {
-      "source": "Nature 最新研究",
-      "title_en": "Fraud helps little fire ants to survive and conquer",
-      "title_cn": "Fraud helps little fire ants to survive and conquer",
-      "desc_en": "<p>Nature, Published online: 20 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03776-8\">doi:10.1038/d41586-026-03776-8</a></p>Invasive ants in China overcome larger rivals with a crafty stratagem and vigorous attack.",
-      "desc_cn": "<p>Nature, Published online: 20 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03776-8\">doi:10.1038/d41586-026-03776-8</a></p>Invasive ants in China overcome larger rivals with a crafty stratagem and vigorous attack.",
-      "link": "https://www.nature.com/articles/d41586-026-03776-8"
+      "source": "BBC 国际新闻",
+      "title_en": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "title_cn": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "desc_en": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "desc_cn": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "title_cn": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "desc_en": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "desc_cn": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+      "title_en": "Russia-bound ship attacked in Gulf of Finland",
+      "title_cn": "Russia-bound ship attacked in Gulf of Finland",
+      "desc_en": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "desc_cn": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "title_cn": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "desc_en": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-      "desc_cn": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss"
+      "title_en": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "title_cn": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "desc_en": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "desc_cn": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "French police officers sentenced for beating of music producer Michel Zecler",
-      "title_cn": "French police officers sentenced for beating of music producer Michel Zecler",
-      "desc_en": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-      "desc_cn": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "source": "BBC 国际新闻",
-      "title_en": "Man convicted of starting Palisades fire in Los Angeles",
-      "title_cn": "Man convicted of starting Palisades fire in Los Angeles",
-      "desc_en": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "desc_cn": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
+      "title_en": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "title_cn": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "desc_en": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "desc_cn": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
