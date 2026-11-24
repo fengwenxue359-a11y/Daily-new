@@ -1,6 +1,22 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "items": [
+    {
+      "source": "Huberman Lab (YouTube)",
+      "title_en": "Happiness Isn't the World's Job | Eckhart Tolle",
+      "title_cn": "Happiness Isn't the World's Job | Eckhart Tolle",
+      "desc_en": "Eckhart Tolle is a world-revered spiritual teacher and author known for sharing practical tools that allow people to experience life more richly.\n\nDuring the podcast we discuss, and Eckhart demonstrates, how you can access greater inner peace, authenticity, creativity, and connection in your everyday life.\n\nEckhart also shares tools for quieting compulsive thinking, accessing inner stillness, and adopting a helpful mental vantage point when life gets challenging.\n\nWe also discuss how to balance your pursuit of external goals with your spiritual growth and relationships and, in doing so, foster",
+      "desc_cn": "Eckhart Tolle is a world-revered spiritual teacher and author known for sharing practical tools that allow people to experience life more richly.\n\nDuring the podcast we discuss, and Eckhart demonstrates, how you can access greater inner peace, authenticity, creativity, and connection in your everyday life.\n\nEckhart also shares tools for quieting compulsive thinking, accessing inner stillness, and adopting a helpful mental vantage point when life gets challenging.\n\nWe also discuss how to balance your pursuit of external goals with your spiritual growth and relationships and, in doing so, foster",
+      "link": "https://www.youtube.com/shorts/t09qO4lQ6y8"
+    },
+    {
+      "source": "Huberman Lab (YouTube)",
+      "title_en": "Access the Power of Now to Experience Life More Fully | Eckhart Tolle",
+      "title_cn": "Access the Power of Now to Experience Life More Fully | Eckhart Tolle",
+      "desc_en": "Eckhart Tolle is a world-revered spiritual teacher and author known for sharing practical tools that allow people to experience life more richly. We discuss, and Eckhart demonstrates, how you can access greater inner peace, authenticity, creativity, and connection in your everyday life. Eckhart also shares tools for quieting compulsive thinking, accessing inner stillness, and adopting a helpful mental vantage point when life gets challenging. We also discuss how to balance your pursuit of external goals with your spiritual growth and relationships and, in doing so, foster a deeper sense of wel",
+      "desc_cn": "Eckhart Tolle is a world-revered spiritual teacher and author known for sharing practical tools that allow people to experience life more richly. We discuss, and Eckhart demonstrates, how you can access greater inner peace, authenticity, creativity, and connection in your everyday life. Eckhart also shares tools for quieting compulsive thinking, accessing inner stillness, and adopting a helpful mental vantage point when life gets challenging. We also discuss how to balance your pursuit of external goals with your spiritual growth and relationships and, in doing so, foster a deeper sense of wel",
+      "link": "https://www.youtube.com/watch?v=brzkTni-nTQ"
+    },
     {
       "source": "Huberman Lab (YouTube)",
       "title_en": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
@@ -16,22 +32,6 @@
       "desc_en": "Paul Stamets is widely regarded as the father of modern applied mycology for his work on fungi and their applications in human health. We discuss how mushrooms and other fungi affect, and can improve, our immune system; how certain non-psychedelic mushrooms can enhance cognition and brain plasticity; and the use of psilocybin for depression, anxiety, and other mental health conditions, as well as important safety considerations. This episode is for anyone seeking to learn more about the biology of fungi and their medicinal and other uses.\n\nShow notes: https://www.hubermanlab.com/episode/mushro",
       "desc_cn": "Paul Stamets is widely regarded as the father of modern applied mycology for his work on fungi and their applications in human health. We discuss how mushrooms and other fungi affect, and can improve, our immune system; how certain non-psychedelic mushrooms can enhance cognition and brain plasticity; and the use of psilocybin for depression, anxiety, and other mental health conditions, as well as important safety considerations. This episode is for anyone seeking to learn more about the biology of fungi and their medicinal and other uses.\n\nShow notes: https://www.hubermanlab.com/episode/mushro",
       "link": "https://www.youtube.com/watch?v=7mEK5wZHpto"
-    },
-    {
-      "source": "Huberman Lab (YouTube)",
-      "title_en": "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
-      "title_cn": "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
-      "desc_en": "In this Huberman Lab Essentials episode, my guest is Dr. Mary Helen Immordino-Yang, EdD, a professor of education and psychology at the University of Southern California (USC) and director of the USC Center for Affective Neuroscience, Development, Learning and Education (CANDLE). We discuss how emotions, stories and culture shape the way we perceive the world, learn and build a sense of self. We also explain how our narratives can foster empathy or dehumanization, and how education can be redesigned to engage curiosity, meaning-making and the development of the whole person.\n\nShow notes: https",
-      "desc_cn": "In this Huberman Lab Essentials episode, my guest is Dr. Mary Helen Immordino-Yang, EdD, a professor of education and psychology at the University of Southern California (USC) and director of the USC Center for Affective Neuroscience, Development, Learning and Education (CANDLE). We discuss how emotions, stories and culture shape the way we perceive the world, learn and build a sense of self. We also explain how our narratives can foster empathy or dehumanization, and how education can be redesigned to engage curiosity, meaning-making and the development of the whole person.\n\nShow notes: https",
-      "link": "https://www.youtube.com/watch?v=1rn_Clc-MM0"
-    },
-    {
-      "source": "Huberman Lab (YouTube)",
-      "title_en": "Why Addiction is a Control Problem | Dr. Anna Lembke",
-      "title_cn": "Why Addiction is a Control Problem | Dr. Anna Lembke",
-      "desc_en": "Dr. Anna Lembke discusses addiction and its correlation to our innate desire to assert control and reduce uncertainty. \n\nDr. Anna Lembke is chief of the Addiction Medicine Dual Diagnosis Clinic at Stanford and a leading expert in how to overcome addictions of all kinds. \n\nWatch the full episode: https://www.youtube.com/watch?v=wbJ_Q1xsDHg\n\n#HubermanLab #AnnaLembke #AndrewHuberman #Addiction #Anxiety #Dopamine #Shame #Control",
-      "desc_cn": "Dr. Anna Lembke discusses addiction and its correlation to our innate desire to assert control and reduce uncertainty. \n\nDr. Anna Lembke is chief of the Addiction Medicine Dual Diagnosis Clinic at Stanford and a leading expert in how to overcome addictions of all kinds. \n\nWatch the full episode: https://www.youtube.com/watch?v=wbJ_Q1xsDHg\n\n#HubermanLab #AnnaLembke #AndrewHuberman #Addiction #Anxiety #Dopamine #Shame #Control",
-      "link": "https://www.youtube.com/shorts/9dWQNg68Ncw"
     },
     {
       "source": "华尔街日报 - 科技",
@@ -67,6 +67,14 @@
     },
     {
       "source": "经济学人 - 国际",
+      "title_en": "Cover Story newsletter: Axis of malice",
+      "title_cn": "Cover Story newsletter: Axis of malice",
+      "desc_en": "An exclusive look at how we designed our cover",
+      "desc_cn": "An exclusive look at how we designed our cover",
+      "link": "https://www.economist.com/the-world-this-week/2026/11/23/cover-story-newsletter-axis-of-malice"
+    },
+    {
+      "source": "经济学人 - 国际",
       "title_en": "Cartoon: The meeting of Donald Trump, Xi Jinping and Vladimir Putin",
       "title_cn": "Cartoon: The meeting of Donald Trump, Xi Jinping and Vladimir Putin",
       "desc_en": "A lighter take on the news",
@@ -90,76 +98,68 @@
       "link": "https://www.economist.com/the-world-this-week/2026/11/19/politics"
     },
     {
-      "source": "经济学人 - 国际",
-      "title_en": "Cover Story newsletter: An AI crash, or a bull in the bath?",
-      "title_cn": "Cover Story newsletter: An AI crash, or a bull in the bath?",
-      "desc_en": "An exclusive look at how we designed our cover",
-      "desc_cn": "An exclusive look at how we designed our cover",
-      "link": "https://www.economist.com/the-world-this-week/2026/11/13/cover-story-newsletter-an-ai-crash-or-a-bull-in-the-bath"
+      "source": "Nature 最新研究",
+      "title_en": "Hexa-substituted benzene synthesis with non-classical carbocations",
+      "title_cn": "Hexa-substituted benzene synthesis with non-classical carbocations",
+      "desc_en": "<p>Nature, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11449-9\">doi:10.1038/s41586-026-11449-9</a></p>Hexa-substituted benzene synthesis with non-classical carbocations",
+      "desc_cn": "<p>Nature, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11449-9\">doi:10.1038/s41586-026-11449-9</a></p>Hexa-substituted benzene synthesis with non-classical carbocations",
+      "link": "https://www.nature.com/articles/s41586-026-11449-9"
     },
     {
       "source": "Nature 最新研究",
-      "title_en": "BepiColombo finally reaches Mercury after eight-year odyssey",
-      "title_cn": "BepiColombo finally reaches Mercury after eight-year odyssey",
-      "desc_en": "<p>Nature, Published online: 21 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03803-8\">doi:10.1038/d41586-026-03803-8</a></p>European and Japanese probes will trace different paths around the planet to study its surface and its surroundings.",
-      "desc_cn": "<p>Nature, Published online: 21 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03803-8\">doi:10.1038/d41586-026-03803-8</a></p>European and Japanese probes will trace different paths around the planet to study its surface and its surroundings.",
-      "link": "https://www.nature.com/articles/d41586-026-03803-8"
+      "title_en": "COP31 went down in flames over fossil fuels — it sends an important message",
+      "title_cn": "COP31 went down in flames over fossil fuels — it sends an important message",
+      "desc_en": "<p>Nature, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03827-0\">doi:10.1038/d41586-026-03827-0</a></p>Nature reporter James Dinneen reflects on the first international climate summit to collapse since 2009.",
+      "desc_cn": "<p>Nature, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03827-0\">doi:10.1038/d41586-026-03827-0</a></p>Nature reporter James Dinneen reflects on the first international climate summit to collapse since 2009.",
+      "link": "https://www.nature.com/articles/d41586-026-03827-0"
     },
     {
       "source": "Nature 最新研究",
-      "title_en": "How AI is affecting science careers",
-      "title_cn": "How AI is affecting science careers",
-      "desc_en": "<p>Nature, Published online: 20 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03680-1\">doi:10.1038/d41586-026-03680-1</a></p>Join a free webinar to discuss how the technology is changing researchers' roles, their skills and job security.",
-      "desc_cn": "<p>Nature, Published online: 20 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03680-1\">doi:10.1038/d41586-026-03680-1</a></p>Join a free webinar to discuss how the technology is changing researchers' roles, their skills and job security.",
-      "link": "https://www.nature.com/articles/d41586-026-03680-1"
+      "title_en": "Continuous N-to-C Peptide Synthesis",
+      "title_cn": "Continuous N-to-C Peptide Synthesis",
+      "desc_en": "<p>Nature, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11448-w\">doi:10.1038/s41586-026-11448-w</a></p>Continuous N-to-C Peptide Synthesis",
+      "desc_cn": "<p>Nature, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11448-w\">doi:10.1038/s41586-026-11448-w</a></p>Continuous N-to-C Peptide Synthesis",
+      "link": "https://www.nature.com/articles/s41586-026-11448-w"
     },
     {
       "source": "Nature 最新研究",
-      "title_en": "Lifting weights reduces muscle loss from obesity drugs",
-      "title_cn": "Lifting weights reduces muscle loss from obesity drugs",
-      "desc_en": "<p>Nature, Published online: 20 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03751-3\">doi:10.1038/d41586-026-03751-3</a></p>Resistance exercise could help middle-aged and older individuals to maintain muscle mass and strength during weight-loss treatment.",
-      "desc_cn": "<p>Nature, Published online: 20 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03751-3\">doi:10.1038/d41586-026-03751-3</a></p>Resistance exercise could help middle-aged and older individuals to maintain muscle mass and strength during weight-loss treatment.",
-      "link": "https://www.nature.com/articles/d41586-026-03751-3"
-    },
-    {
-      "source": "Nature 最新研究",
-      "title_en": "Briefing Chat: Voyager 1 is now one ‘light day’ from Earth — setting a cosmic record",
-      "title_cn": "Briefing Chat: Voyager 1 is now one ‘light day’ from Earth — setting a cosmic record",
-      "desc_en": "<p>Nature, Published online: 20 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03806-5\">doi:10.1038/d41586-026-03806-5</a></p>Nature staff discuss the probe’s epic journey — plus, how vampire bats survive on a blood-only diet.",
-      "desc_cn": "<p>Nature, Published online: 20 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03806-5\">doi:10.1038/d41586-026-03806-5</a></p>Nature staff discuss the probe’s epic journey — plus, how vampire bats survive on a blood-only diet.",
-      "link": "https://www.nature.com/articles/d41586-026-03806-5"
+      "title_en": "Architecture of the poxvirus early-transcription machinery and portal complex",
+      "title_cn": "Architecture of the poxvirus early-transcription machinery and portal complex",
+      "desc_en": "<p>Nature, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11458-8\">doi:10.1038/s41586-026-11458-8</a></p>Architecture of the poxvirus early-transcription machinery and portal complex",
+      "desc_cn": "<p>Nature, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11458-8\">doi:10.1038/s41586-026-11458-8</a></p>Architecture of the poxvirus early-transcription machinery and portal complex",
+      "link": "https://www.nature.com/articles/s41586-026-11458-8"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-      "title_cn": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-      "desc_en": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
-      "desc_cn": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+      "title_en": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "title_cn": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "desc_en": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "desc_cn": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "What's next after no deal at COP31 climate talks?",
-      "title_cn": "What's next after no deal at COP31 climate talks?",
-      "desc_en": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-      "desc_cn": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+      "title_en": "What China's Xi could take away from Jensen Huang's return to Nvidia",
+      "title_cn": "What China's Xi could take away from Jensen Huang's return to Nvidia",
+      "desc_en": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+      "desc_cn": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "title_cn": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "desc_en": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
-      "desc_cn": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
-      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+      "title_en": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "title_cn": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "desc_en": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "desc_cn": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "source": "BBC 国际新闻",
-      "title_en": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "title_cn": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "desc_en": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-      "desc_cn": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
+      "title_en": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "title_cn": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "desc_en": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+      "desc_cn": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
